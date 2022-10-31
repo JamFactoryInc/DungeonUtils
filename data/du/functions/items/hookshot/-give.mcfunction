@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick{Damage:1,display:{Name:'[{"text":"Hookshot","italic":false}]'},Unbreakable:1b}

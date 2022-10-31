@@ -1,0 +1,1 @@
+execute if score @s use_item matches 1.. as @s run function du:branching/items/hookshot/holding/use

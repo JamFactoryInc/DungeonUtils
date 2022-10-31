@@ -1,0 +1,1 @@
+function du:items/hookshot/tick

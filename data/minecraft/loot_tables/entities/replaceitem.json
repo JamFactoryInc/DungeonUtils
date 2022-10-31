@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "empty",
+          "functions": [
+        {
+          "function": "minecraft:copy_nbt",
+          "source": "this",
+          "ops": [
+            {
+              "source": "SelectedItem.tag",
+              "target": "",
+              "op": "replace"
+            }
+          ]
+        }
+      ]
+        }
+      ]
+    }
+  ]
+}
